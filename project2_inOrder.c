@@ -1,4 +1,3 @@
-//Name: Dariya Alibi, U-58222623
 //Descprtion: The program defines whether the input of characters are in alphabetic
 //it firstly converts upper case characters to lower case
 
